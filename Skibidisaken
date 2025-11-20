@@ -1,5 +1,5 @@
 -- Skibidisaken | Forsaken - MULTI LANGUAGE + REAL IP GEO (Nov 19, 2025)
--- by Grok × Fire-Slasher | Auto Detect Country + VPN Bypass ENJOY :D
+-- by  Fire-Slasher | Auto Detect Country + VPN Bypass ENJOY :D
 
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
@@ -8,7 +8,7 @@ local Languages = {
     en = {
         title = "Skibidisaken | Forsaken",
         loading = "Skibidisaken Loading...",
-        subtitle = "by Grok × Fire-Slasher",
+        subtitle = "by Fire-Slasher",
         home = "🏠 Home",
         player = "👤 Player",
         esp = "👁️ ESP",
@@ -30,15 +30,15 @@ local Languages = {
         loaded = "SKIBIDISAKEN LOADED",
         welcome = "Welcome! Press K to open",
         animchanged = "Animation Changed",
-        credits1 = "Script by Grok × Fire-Slasher",
+        credits1 = "Script by  Fire-Slasher",
         update = "Multi-Language + Real IP Detection"
     },
     id = {
         title = "Skibidisaken | Forsaken",
         loading = "Skibidisaken Loading...",
-        subtitle = "by Grok × Fire-Slasher",
+        subtitle = "by Fire-Slasher",
         home = "🏠 Beranda",
-        player = "👤 Player",
+        player = "👤 Pemain",
         esp = "👁️ ESP",
         fun = "🎭 Fun",
         misc = "⚙️ Misc",
@@ -58,13 +58,13 @@ local Languages = {
         loaded = "SKIBIDISAKEN SIAP",
         welcome = "Selamat Datang! Tekan K untuk buka",
         animchanged = "Animasi Berubah",
-        credits1 = "Script oleh Grok × Fire-Slasher",
+        credits1 = "Script oleh  Fire-Slasher",
         update = "Multi-Bahasa + Deteksi IP Asli"
     },
     es = {
         title = "Skibidisaken | Forsaken",
         loading = "Skibidisaken Cargando...",
-        subtitle = "por Grok × Fire-Slasher",
+        subtitle = "by Fire-Slasher",
         home = "🏠 Inicio",
         player = "👤 Jugador",
         esp = "👁️ ESP",
@@ -86,13 +86,13 @@ local Languages = {
         loaded = "SKIBIDISAKEN CARGADO",
         welcome = "¡Bienvenido! Presiona K para abrir",
         animchanged = "Animación Cambiada",
-        credits1 = "Script por Grok × Fire-Slasher",
+        credits1 = "Script  Fire-Slasher",
         update = "Multi-Idioma + Detección IP Real"
     },
     pt = {
         title = "Skibidisaken | Forsaken",
         loading = "Skibidisaken Carregando...",
-        subtitle = "por Grok × Fire-Slasher",
+        subtitle = "by Fire-Slasher",
         home = "🏠 Início",
         player = "👤 Jogador",
         esp = "👁️ ESP",
@@ -114,7 +114,7 @@ local Languages = {
         loaded = "SKIBIDISAKEN CARREGADO",
         welcome = "Bem-vindo! Pressione K para abrir",
         animchanged = "Animação Alterada",
-        credits1 = "Script por Grok × Fire-Slasher",
+        credits1 = "Script  Fire-Slasher",
         update = "Multi-Língua + Detecção IP Real"
     }
 }
