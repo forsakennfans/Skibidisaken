@@ -152,7 +152,7 @@ local Window = Rayfield:CreateWindow({
     Icon = 7205866972,
     LoadingTitle = Lang.loading,
     LoadingSubtitle = Lang.subtitle.." | "..UserCountry,
-    ShowText = "Open",
+    ShowText = "Skibidi",
     Theme = "Ocean",
     ToggleUIKeybind = "K",
     ConfigurationSaving = {Enabled = true, FolderName = "Skibidisaken", FileName = "Config"},
@@ -160,10 +160,10 @@ local Window = Rayfield:CreateWindow({
     KeySettings = {
         Title = "Skibidisaken Key",
         Subtitle = "Detected: "..UserCountry,
-        Note = "Key changes every 24h",
+        Note = "Key! Get on discord",
         FileName = "SkibidiKey2025",
-        SaveKey = true,
-        Key = {"Guest666", "skibidi2025", "forsakenontop", "sigma2025"}
+        SaveKey = false,
+        Key = {"Guest666", "skibidi2025", "forsakenontop", "sigma2025", "Scriptblox"}
     }
 })
 
